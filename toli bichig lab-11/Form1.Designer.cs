@@ -121,7 +121,7 @@
             dataGridView2.AllowUserToAddRows = false;
             dataGridView2.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView2.Columns.AddRange(new DataGridViewColumn[] { Column4 });
-            dataGridView2.Location = new Point(380, 61);
+            dataGridView2.Location = new Point(365, 61);
             dataGridView2.Name = "dataGridView2";
             dataGridView2.Size = new Size(240, 258);
             dataGridView2.TabIndex = 5;
